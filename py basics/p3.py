@@ -9,3 +9,4 @@ b[:,2]=[1,2]
 print(b)
 c=np.full_like(b.shape,78)
 print(c)
+import pandas as pd
